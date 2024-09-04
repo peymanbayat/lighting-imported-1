@@ -5,7 +5,7 @@ from contextlib import suppress
 from pathlib import Path
 from typing import Any
 
-#import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 import numpy as np
 import shinyswatch
 from astral import LocationInfo
